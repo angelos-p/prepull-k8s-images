@@ -1,0 +1,12 @@
+docker.io/storageos/node:v2.5.0
+docker.io/storageos/api-manager:v1.2.2
+docker.io/storageos/init:v2.1.0
+quay.io/k8scsi/csi-node-driver-registrar:v2.1.0
+docker.io/storageos/csi-provisioner:v2.1.1-patched
+quay.io/k8scsi/csi-attacher:v3.1.0
+quay.io/k8scsi/csi-resizer:v1.1.0
+quay.io/k8scsi/livenessprobe:v2.2.0
+k8s.gcr.io/kube-scheduler:v1.20.5
+docker.io/storageos/operator:v2.5.0
+quay.io/brancz/kube-rbac-proxy:v0.10.0
+docker.io/storageos/operator-manifests:v2.5.0
